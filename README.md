@@ -1,1 +1,2 @@
-# C33-Invasi-n-Pirata
+# InvasiónPirataEtapa-5
+animación de sprite agregada 
